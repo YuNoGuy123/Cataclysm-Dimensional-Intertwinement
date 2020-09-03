@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "YuNoGuy123s_Cataclysm",
+    "name": "YuNoGuy123's Cataclysm",
+    "authors": [ "YuNoGuy123"],
+    "description": "\n<color_red>Adds magical/mythical items, weapons, monsters, and equipment.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]
