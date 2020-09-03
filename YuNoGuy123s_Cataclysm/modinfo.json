@@ -4,8 +4,9 @@
     "ident": "YuNoGuy123s_Cataclysm",
     "name": "YuNoGuy123's Cataclysm",
     "authors": [ "YuNoGuy123"],
-    "description": "\n<color_red>Adds magical/mythical items, weapons, monsters, and equipment.",
-    "category": "items",
+    "description": "\n<color_light_blue>Adds magical/mythical items, weapons, monsters, and equipment.\n<color_light_green>Mostly intended for those who want an experience that is <color_green>completely non-vanilla.\n\n<color_red>Mod version is from 9/2/2020",
+	"version": "<color_yellow>V1.0.0 - The Start Of It all",
+    "category": "content",
     "dependencies": [ "dda" ]
   }
 ]
