@@ -4,3 +4,5 @@ This mod is not intended for vanilla purists or players that want a completely e
 This mod is currently very early and this is my first C:DDA mod.
 
 Current mod version - 1.0.0
+
+Confirmed working as of game version - EXP Build 10978
