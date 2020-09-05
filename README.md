@@ -5,4 +5,4 @@ This mod is currently very early and this is my first C:DDA mod.
 
 Current mod version - 1.0.0
 
-Confirmed working as of game version - EXP Build 10978
+Confirmed working as of game version - EXP Build 10982
