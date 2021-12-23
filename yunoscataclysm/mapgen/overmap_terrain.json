@@ -4,7 +4,7 @@
     "id": "jasdentestspawn",
     "name": "A Special Home",
     "sym": "H",
-    "color": "black",
+    "color": "red",
     "see_cost": 5,
     "extras": "build",
     "flags": [ "NO_ROTATE" ]
