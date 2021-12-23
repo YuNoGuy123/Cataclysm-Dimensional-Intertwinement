@@ -1,0 +1,12 @@
+[
+  {
+    "type": "overmap_terrain",
+    "id": "jasdentestspawn",
+    "name": "A Special Home",
+    "sym": "H",
+    "color": "black",
+    "see_cost": 5,
+    "extras": "build",
+    "flags": [ "NO_ROTATE" ]
+  }
+]

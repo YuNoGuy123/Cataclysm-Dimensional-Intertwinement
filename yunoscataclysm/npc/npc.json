@@ -1,0 +1,15 @@
+[
+  {
+    "type": "npc",
+	"age": 24,
+	"height": 566,
+    "id": "Jasden_Person",
+    "//": "This is jasden, I think.",
+    "name_unique": "Jasden Inostine",
+    "class": "NPC_YGC_JASDEN",
+    "attitude": 1,
+	"mission": 0,
+    "chat": "TALK_STRANGER_FRIENDLY",
+    "faction": "no_faction"
+  }
+]
