@@ -4,9 +4,9 @@
     "id": "YuNos_Cataclysm",
     "name": "YuNo's Cataclysm: Revitalized",
     "authors": [ "<color_cyan>YuNoGuy123</color>, with guest appearances from <color_light_green>Nuklear</color>."],
-    "description": "\n<color_red>Adds many things from many sources, NPCs, Weapons, Enemies, Magic, and more.</color> \n<color_light_green>This is a mod that is balanced around vanilla, while still adding many things that are far from vanilla. \n<color_light_cyan>Magiclysm </color><color_blue>is highly recommended for the optimal experience</color> \n<color_yellow>Static NPCs is</color><color_magenta> REQUIRED</color><color_yellow> otherwise there will be huge problems!</color> \n<color_magenta>This version is from 9/16/23</color>",
-    "version": "<color_light_green>V1.0.0 - The Resurrection</color>",
-    "category": "misc_additions",
+    "description": "\n<color_red>Adds a variety of things into the Cataclysm, NPCs, Sci-Fi stuff, Enemies, Magic, and more.</color> \n<color_light_green>This is a mod that is balanced around vanilla, while still adding many things that are far from vanilla. \n<color_magenta>This version is from 3/12/2024</color>",
+    "version": "<color_light_green>V1.0.0 - Revival</color>",
+    "category": "content",
     "dependencies": [ "dda" ]
   }
 ]
