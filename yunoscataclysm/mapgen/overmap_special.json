@@ -1,9 +1,0 @@
-[
-  {
-    "id": "jasdentestspawn",
-    "locations": [ "forest", "field"],
-    "occurrences": [ 0, 2 ],
-    "overmaps": [ { "overmap": "jasdentestspawn", "point": [ 0, 0, 0 ] }],
-    "type": "overmap_special"
-  }
-]
