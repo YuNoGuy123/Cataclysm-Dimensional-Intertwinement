@@ -1,0 +1,66 @@
+[
+  {
+    "type": "martial_art",
+    "id": "style_reddragon",
+    "name": { "str": "Red Dragon" },
+    "description": "The Red Dragon is a martial art designed by a very wise Arkyan, it tends to hold a very wide stance due to the proportions of the Arkyan populous. In essence, it is an Arkyan-Compatible version of Kickboxing, with powerful kicks and leg blocks being the focal points of the art. However, due to the wide stance, dodging ability suffers.",
+    "initiate": [ "You enter the stance of The Red Dragon.", "%s enters a wide combat posture." ],
+    "learn_difficulty": 5,
+	"arm_block": 3,
+    "leg_block": 0,
+    "static_buffs": [
+      {
+        "id": "buff_reddragon_static1",
+        "name": "Red Dragon Stance",
+        "description": "By disregarding offense in favor of defense, you are better at protecting yourself.\n\nBlocked damage reduced by 50% of Dexterity, +2 blocking effectiveness. -1 Dodging skill.",
+        "unarmed_allowed": true,
+        "unarmed_weapons_allowed": true,
+        "melee_allowed": false,
+        "flat_bonuses": [
+          { "stat": "block", "scaling-stat": "dex", "scale": 0.5 },
+          { "stat": "block_effectiveness", "scale": 2.0 },
+          { "stat": "dodge", "scale": -1.0 }
+        ]
+      },
+      {
+        "id": "buff_reddragon_static2",
+        "name": "Intermediate Red Dragon",
+        "description": "An intermediate Red Dragon practitioner can protect themselves against multiple opponents.\n\nBlocked damage reduced by 100% of Dexterity, +1 blocking effectiveness, +1 block attempt.",
+        "unarmed_allowed": true,
+        "unarmed_weapons_allowed": true,
+        "melee_allowed": false,
+        "skill_requirements": [ { "name": "unarmed", "level": 3 } ],
+        "bonus_blocks": 1,
+        "flat_bonuses": [ { "stat": "block", "scaling-stat": "dex", "scale": 1.0 }, { "stat": "block_effectiveness", "scale": 1.0 } ]
+      },
+      {
+        "id": "buff_reddragon_static3",
+        "name": "Advanced Red Dragon",
+        "description": "An advanced Red Dragon practitioner can protect themselves against even more opponents than normal, and can dodge more easily despite the stance.\n\n+1 blocking effectiveness, +1 block attempt, +1 dodge attempt.",
+        "unarmed_allowed": true,
+        "unarmed_weapons_allowed": true,
+        "melee_allowed": false,
+        "skill_requirements": [ { "name": "unarmed", "level": 5 } ],
+        "bonus_blocks": 1,
+        "flat_bonuses": [ { "stat": "block_effectiveness", "scale": 1.0 } ]
+      }
+    ],
+    "onblock_buffs": [
+      {
+        "id": "buff_reddragon_onblock",
+        "name": "Dragonic Vengence",
+        "description": "After a smooth block, you prepare to counter your foe.\n\n-20% move cost, +20% bash damage.\nLasts 1 turn.",
+        "skill_requirements": [ { "name": "unarmed", "level": 3 } ],
+        "unarmed_allowed": true,
+        "unarmed_weapons_allowed": true,
+        "melee_allowed": false,
+        "buff_duration": 1,
+        "mult_bonuses": [ { "stat": "movecost", "scale": 0.8 }, { "stat": "damage", "type": "bash", "scale": 1.2 } ]
+      }
+    ],
+    "techniques": [
+      "tec_reddragon_blockkick",
+	  "tec_reddragon_groinkick"
+    ]
+  }
+]

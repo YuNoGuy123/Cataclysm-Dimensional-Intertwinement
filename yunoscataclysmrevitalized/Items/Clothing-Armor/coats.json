@@ -1,0 +1,11 @@
+[
+  {
+    "id": "kitkimono",
+	"copy-from": "kimono",
+    "type": "ARMOR",
+    "name": { "str": "Kitsune Kimono" },
+    "description": "A traditional, ankle-length Japanese robe, wrapped around the body with a sash. However, this one appears to have a drawn design of a Kitsune, a creature of Japanese folklore. Additionally, it appears to have a cutout at the tailbone area to allow tails through.",
+    "color": "red",
+	"flags": [ "ALLOWS_TAIL" ]
+  }
+]
