@@ -1,0 +1,14 @@
+[
+  {
+    "type": "item_group",
+    "id": "ammo_pistol_hunting",
+	"copy-from": "ammo_pistol_hunting",
+    "//": "Redefines the 'hunting' ammo caliber in dda to include our custom 9x19mm ratshot, at a low probability.",
+    "subtype": "distribution",
+    "extend": {
+		"items": [
+		{ "item": "9x19_shotshell", "prob": 10 } 
+		]
+	}
+  }
+]

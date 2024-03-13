@@ -1,0 +1,93 @@
+[
+  {
+	"//": "Obsoleted in 1.0.0 simply because it's unfinished and not very well designed. Will be remastered later."
+    "type": "technique",
+    "id": "tec_reddragon_blockkick",
+    "name": "Counter Kick (block)",
+    "messages": [ "You strike %s with a thunderous kick", "<npcname> blocks and kicks %s with vengance" ],
+    "skill_requirements": [ { "name": "unarmed", "level": 2 } ],
+    "unarmed_allowed": true,
+    "melee_allowed": false,
+    "unarmed_weapons_allowed": true,
+    "required_buffs_all": [ "buff_reddragon_onblock" ],
+    "crit_ok": true,
+    "//condition": "Humanoids of similar size and no flying",
+    "condition": {
+      "and": [
+        { "math": [ "u_val('size') + 1", ">=", "n_val('size')" ] },
+        { "math": [ "n_val('size')", "!=", "1" ] },
+        { "not": { "npc_has_effect": "downed" } },
+        { "or": [ { "npc_bodytype": "human" }, { "npc_bodytype": "angel" } ] },
+        { "or": [ { "not": { "npc_has_flag": "FLIES" } }, { "npc_has_flag": "DISABLE_FLIGHT" } ] },
+        {
+          "or": [
+            {
+              "and": [
+                { "npc_has_flag": "GRAB_FILTER" },
+                { "u_has_flag": "GRAB" },
+                {
+                  "roll_contested": { "math": [ "u_val('strength')" ] },
+                  "die_size": 20,
+                  "difficulty": { "math": [ "n_val('grab_strength')" ] }
+                }
+              ]
+            },
+            { "not": { "and": [ { "npc_has_flag": "GRAB_FILTER" }, { "u_has_flag": "GRAB" } ] } }
+          ]
+        }
+      ]
+    },
+    "condition_desc": "* Only works on a <info>non-downed humanoid</info> target of <info>similar or smaller</info> size incapable of flight, may fail on targets <info>grabbing you</info>",
+    "down_dur": 1,
+    "knockback_dist": 2,
+    "mult_bonuses": [ 
+	{ "stat": "movecost", "scale": 0.8 },
+	{ "stat": "damage", "type": "bash", "scale": 1.2 }
+	],
+    "attack_vectors": [ "FOOT" ]
+  },
+  {
+    "type": "technique",
+    "id": "tec_reddragon_groinkick",
+    "name": "Spinning Groin Kick",
+    "messages": [ "You strike %s with a spinning back kick to the groin", "<npcname> delivers a spinning back kick to %s in the groin" ],
+    "skill_requirements": [ { "name": "unarmed", "level": 3 } ],
+    "unarmed_allowed": true,
+    "melee_allowed": false,
+    "unarmed_weapons_allowed": true,
+    "crit_tec": true,
+    "//condition": "Humanoids of similar size and no flying",
+    "condition": {
+      "and": [
+        { "math": [ "u_val('size') + 1", ">=", "n_val('size')" ] },
+        { "math": [ "n_val('size')", "!=", "1" ] },
+        { "not": { "npc_has_effect": "downed" } },
+        { "or": [ { "npc_bodytype": "human" }, { "npc_bodytype": "angel" } ] },
+        {
+          "or": [
+            {
+              "and": [
+                { "npc_has_flag": "GRAB_FILTER" },
+                { "u_has_flag": "GRAB" },
+                {
+                  "roll_contested": { "math": [ "u_val('strength')" ] },
+                  "die_size": 20,
+                  "difficulty": { "math": [ "n_val('grab_strength')" ] }
+                }
+              ]
+            },
+            { "not": { "and": [ { "npc_has_flag": "GRAB_FILTER" }, { "u_has_flag": "GRAB" } ] } }
+          ]
+        }
+      ]
+    },
+    "condition_desc": "* Only works on a <info>non-downed humanoid</info> target of <info>similar or smaller</info> size, may fail on targets <info>grabbing you</info>",
+    "down_dur": 3,
+    "knockback_dist": 1,
+    "mult_bonuses": [ 
+	{ "stat": "movecost", "scale": 1.2 },
+	{ "stat": "damage", "type": "bash", "scale": 1.4 }
+	],
+    "attack_vectors": [ "FOOT" ]
+  }
+]

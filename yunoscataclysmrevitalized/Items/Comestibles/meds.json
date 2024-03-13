@@ -1,0 +1,44 @@
+[
+  {
+    "id": "arkpk1",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "PKS1 Tablet" },
+    "description": "An over-the-counter pain relieving medication developed and marketed in Arkyre, however, due to their lack of medical advancements, it is not nearly as effective as human-made painkillers, and it typically has only found its way to Earth from tourism. It could still be useful in a pinch, though.",
+    "weight": "1 g",
+    "volume": "1 ml",
+    "price": 1,
+    "price_postapoc": 15,
+    "material": [ "powder" ],
+    "symbol": "!",
+    "color": "light_red",
+    "container": "bottle_plastic_pill_painkiller",
+    "flags": [ "WATER_DISSOLVE", "EDIBLE_FROZEN" ],
+    "use_action": {
+      "type": "consume_drug",
+      "activation_message": "You pop a PKS1 Tablet.",
+      "effects": [ { "id": "pkill1", "duration": 360 } ]
+    }
+  },
+  {
+    "id": "arkpk2",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "name": { "str": "PKEP2 Auto-injector" },
+    "description": "An auto-injector designed to be used as a slow-release painkiller, developed and marketed for use in Arkyan hospitals or as a prescription. However, due to their lack of medical advancements, it is not nearly as effective as human-made painkillers, and it typically has only found its way to Earth from tourism. It could still be useful in a pinch, though.",
+    "looks_like": "flu_shot",
+    "weight": "15 g",
+    "volume": "10 ml",
+    "price": 1500,
+    "price_postapoc": 750,
+    "material": [ "plastic" ],
+    "symbol": "!",
+    "color": "red",
+    "flags": [ "NO_INGEST", "IRREPLACEABLE_CONSUMABLE" ],
+    "use_action": {
+      "type": "consume_drug",
+      "activation_message": "You inject yourself with the injector.",
+      "effects": [ { "id": "pkill_l", "duration": 16500 } ]
+    }
+  }
+]
