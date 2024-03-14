@@ -1,4 +1,4 @@
-![image](https://github.com/YuNoGuy123/YuNoGuy123sCataclysm/assets/27122912/9fe4163b-107c-405e-b51e-5d8b1f4217f2)# YuNo's Cataclysm: Revitalized
+# YuNo's Cataclysm: Revitalized
 ## This mod is not considered to be "released" yet, simply on github as a way for me to track progress and showcase what I am doing.
 
 For almost *4 years now* I've been wanting to make a mod for Cataclysm: Dark Days Ahead that would be able to add content into the game that is fun, novel, and anti-vanilla all while trying to remain balanced closely to vanilla, and having a sensible lore to it.
