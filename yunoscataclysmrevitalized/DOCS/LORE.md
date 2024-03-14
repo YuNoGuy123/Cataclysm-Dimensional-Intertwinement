@@ -8,8 +8,6 @@ If anything here is unclear, you can always ask me! Additionally, I am not the g
 
 Small warning: This document does talk briefly about politics as they pertain to this interpretation of the Cataclysm. However, I do not mention any political party by name or any individual by name, and while I do hold slight left-leaning beliefs (some of which certainly shine through), I have tried to keep things mostly realistic, this is not an ideal world, and the Cataclysm has still ruined it beyond repair.
 
-If you're a contributor, don't think that all your contributions have to align perfectly with the lore, I am willing to hand-wave minor things in favor of enjoyability. *However*, major things must adhere to the lore, I am willing to alter some portions of the lore if I like a contribution enough, but regardless, major additions should attempt to stick to what is here as clearly as possible. (This segment will be moved into the github's README.md later, when I write a contributing section.)
-
 ## Before the Cataclysm.
 
 ### The Timing, and the Politics.
