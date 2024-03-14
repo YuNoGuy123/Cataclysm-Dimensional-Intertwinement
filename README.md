@@ -38,7 +38,7 @@ As I've previously eluded to, these are simply guidelines, **they are not hard r
 
 **1. Stick to the theme and lore.**
 
-I would like to keep the mod somewhat serious, even if we do include things from many sources, I want to ensure that the things that are included are somewhat grounded in the "reality" that we have here. That means sticking to the theme, and the lore.
+I would like to keep the mod somewhat serious, even if we do include things from many sources, I want to ensure that the things that are included are somewhat grounded in the "reality" that we have here. That means sticking to the theme, and the lore. You may read the lore [here.](https://github.com/YuNoGuy123/YuNoGuy123sCataclysm/blob/exp/yunoscataclysmrevitalized/DOCS/LORE.md)
 
 If you're a contributor, don't think that all your contributions have to align perfectly with the lore, this is more of a guideline rather than a hard rule and I am willing to hand-wave minor things in favor of enjoyability. However, major things must adhere to the lore, I am willing to alter some portions of the lore if I like a contribution enough, but regardless, major additions should attempt to stick to what's established as best as possible.
 
