@@ -49,7 +49,7 @@ Adding a new enemy that expands an already existing enemy faction, the story of 
 
 **Example of a contribution that is also okay, but bends the guidline slightly:**
 
-Adding a new ranged energy type weapon which is capable of dealing high damage in a small form factor, but the weapon has some type of major usability issue preventing it from being too far ahead of the lore.
+Adding a new ranged energy type weapon which is capable of dealing high damage in a small form factor, and isn't too rare, but the weapon has some type of major usability issue preventing it from being too far ahead of the lore.
 
 **Example of a contribution that is also okay, but needs a lore addition to be included:**
 
