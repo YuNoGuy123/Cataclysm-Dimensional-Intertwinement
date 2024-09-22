@@ -27,4 +27,4 @@ Originally this mod was going to have all of the themes be combined but I've dec
 
 Compatibility with other mods is best effort and not guaranteed, mods like Aftershock will probably not work with the mod.
 
-No, I am not planning for any of this to be included in the DDA repo. Not that it meets the criteria for that regardless as it messes with other mods.
+No, I am not planning for any of this to be included in the DDA repo. Not that it meets the criteria for that regardless as it messes with other mods and is a multi-suite set of mods which I don't think would go down well, I would probably have to take the best elements and combine them.
