@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "DICore",
+    "name": "Dimensional Intertwinement - Core",
+    "authors": [ "<color_cyan>YuNoGuy123</color>"],
+    "description": "\n<color_red>Aims to reimplement a lot of the Sci-Fi content previously removed from DDA.</color> \n<color_light_green>This is the core pack, containing only the Sci-Fi stuff.</color>",
+    "version": "<color_light_green>V1.0.0</color>",
+    "category": "content",
+    "dependencies": [ "dda" ]
+  }
+]
