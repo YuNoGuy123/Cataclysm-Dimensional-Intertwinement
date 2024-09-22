@@ -1,3 +1,5 @@
+# THIS MOD IS CURRENTLY ON HOLD UNTIL FURTHER NOTICE.
+
 # YuNo's Cataclysm: Revitalized
 ## This mod is not considered to be "released" yet, simply on github as a way for me to track progress and showcase what I am doing.
 
