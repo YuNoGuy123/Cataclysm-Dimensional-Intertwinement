@@ -5,11 +5,9 @@ Dimensional Intertwinement is a series of mods (hereby referred to as "content p
 Previously known as "YuNoGuy123's Cataclysm" before I changed the name to something a little bit less ridiculous.
 
 ## Dimensional Intertwinement - Core 
-The most basic form of the mod, all other content packs in the series require this one to work.
+The most basic form of the mod, currently not required by the other packs but *may* end up being required in the future.
 
-Core aims to restore the science fiction elements that were present in previous versions of Dark Days Ahead, and expand upon them.
-
-More details to come with time.
+Aims to restore the science fiction elements that were present in previous versions of Dark Days Ahead, and expand upon them.
 
 ## Dimensional Intertwinement - Magic
 Requires Magiclysm.
