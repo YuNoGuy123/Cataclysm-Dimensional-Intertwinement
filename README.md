@@ -16,18 +16,18 @@ Functions as an expansion to Magiclysm, adding more magic and more "stuff" in ge
 
 # Some questions that I figure may be asked are pre-emptively answered below
 
-## Will this suite have more mods in the future?
+### Will this suite have more mods in the future?
 Probably, yeah! Though it depends a lot on how much I end up making out of this. Currently "Core" and "Magic" are the only ones planned, but I've had ideas for other possibilities.
 
-## Is the suite compatible with other mods?
+### Is the suite compatible with other mods?
 Compatibility with other mods is best effort and not guaranteed, if there is an incompatibility and it is a simple fix, I will fix it, otherwise, that mod may simply be incompatible.
 
-## Can we add X/Y/Z to Core if it was removed from DDA?
+### Can we add X/Y/Z to Core if it was removed from DDA?
 Probably, yeah. A lot of the current plans for Core are just things that were removed from DDA.
 
 No guarantees, though.
 
-## Will any of this be in-repo someday?
+### Will any of this be in-repo someday?
 I doubt it.
 
 # Footnotes
