@@ -1,11 +1,11 @@
 # Dimensional Intertwinement - A suite of various content mods for Cataclysm: Dark Days Ahead
 
-Dimensional Intertwinement is a series of mods (hereby referred to as "content packs") designed to work together, each of which adding a significant amount of content to the game, the different content packs are all compatible with one another and can be mixed and matched to add content of your liking.
+Dimensional Intertwinement is a series of mods designed to work together, each of which adding a significant amount of content to the game, the different mods are all compatible with one another and can be mixed and matched to add content of your liking.
 
 Previously known as "YuNoGuy123's Cataclysm" before I changed the name to something a little bit less ridiculous.
 
 ## Dimensional Intertwinement - Core 
-The most basic form of the mod, currently not required by the other packs but *may* end up being required in the future.
+The most basic form of the mod, currently not required by the others but *may* end up being required in the future.
 
 Aims to restore the science fiction elements that were present in previous versions of Dark Days Ahead, and expand upon them.
 
@@ -14,17 +14,25 @@ Requires Magiclysm.
 
 Functions as an expansion to Magiclysm, adding more magic and more "stuff" in general.
 
+# Some questions that I figure may be asked are pre-emptively answered below
+
+## Will this suite have more mods in the future?
+Probably, yeah! Though it depends a lot on how much I end up making out of this. Currently "Core" and "Magic" are the only ones planned, but I've had ideas for other possibilities.
+
+## Is the suite compatible with other mods?
+Compatibility with other mods is best effort and not guaranteed, if there is an incompatibility and it is a simple fix, I will fix it, otherwise, that mod may simply be incompatible.
+
+## Can we add X/Y/Z to Core if it was removed from DDA?
+Probably, yeah. A lot of the current plans for Core are just things that were removed from DDA.
+
+No guarantees, though.
+
+## Will any of this be in-repo someday?
+I doubt it.
+
 # Footnotes
 This README is currently undergoing a rewrite so I've only put the bare minimum information here.
 
 Additionally, the entire suite is undergoing a complete facelift, and nothing is really available for use yet.
 
 The current name, Dimensional Intertwinement, is not final and *may* change if I come up with something better, I suck at names though so we'll see.
-
-Currently there are only two content packs planned, "Core" and "Magic" but in the future I will likely make more depending on how things go.
-
-Originally this mod was going to have all of the themes be combined but I've decided that some people may not be into that so they'll be separate.
-
-Compatibility with other mods is best effort and not guaranteed, mods like Aftershock will probably not work with the mod.
-
-No, I am not planning for any of this to be included in the DDA repo. Not that it meets the criteria for that regardless as it messes with other mods and is a multi-suite set of mods which I don't think would go down well, I would probably have to take the best elements and combine them.
