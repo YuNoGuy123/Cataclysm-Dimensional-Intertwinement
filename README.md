@@ -39,6 +39,11 @@ The only way this would ever happen would be if I *needed* C++ code in order to 
 
 "Core"? Oh heavens, no. Though I will try to break the monotony of the lore in a fun and interesting way where possible.
 
+### Bright Nights?
+I doubt it, Bright Nights just *isn't* there yet. It's close, but not quite.
+
+If Bright Nights ends up adding an improved version of the proficiencies system (I like proficiencies but they could be way better), separate tileset for the overmap, more content, pockets, etc then I will likely end up making this a Bright Nights mod suite.
+
 # Footnotes
 This README is currently undergoing a rewrite so I've only put the bare minimum information here.
 
