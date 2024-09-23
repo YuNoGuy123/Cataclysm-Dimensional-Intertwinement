@@ -28,7 +28,14 @@ Probably, yeah. A lot of the current plans for Core are just things that were re
 No guarantees, though.
 
 ### Will any of this be in-repo someday?
-I doubt it.
+I doubt it, the problem being that these mods are designed to be mixed and matched, if you like one part of it, then you play with that part, if you like another part, then you can play with that part as well. 
+
+If this were to go into repo, it'd have to be consolidated down into one mod with a singular intention, and I don't really want to do that.
+
+### Are these mods lore friendly?
+"Magic" is more or less lore friendly to (and designed to be played with) Magiclysm yeah.
+
+"Core"? Oh heavens, no. Though I will try to break the monotony of the lore in a fun and interesting way where possible.
 
 # Footnotes
 This README is currently undergoing a rewrite so I've only put the bare minimum information here.
