@@ -30,7 +30,9 @@ No guarantees, though.
 ### Will any of this be in-repo someday?
 I doubt it, the problem being that these mods are designed to be mixed and matched, if you like one part of it, then you play with that part, if you like another part, then you can play with that part as well. 
 
-If this were to go into repo, it'd have to be consolidated down into one mod with a singular intention, and I don't really want to do that.
+If this were to go into repo, it'd have to be consolidated down into one mod with a singular intention, and I don't really want to do that. 
+
+The only way this would ever happen would be if I *needed* C++ code in order to do something I reaaally wanted to do with the mod, currently I can't imagine anything like that.
 
 ### Are these mods lore friendly?
 "Magic" is more or less lore friendly to (and designed to be played with) Magiclysm yeah.
