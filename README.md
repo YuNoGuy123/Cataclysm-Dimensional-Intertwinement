@@ -19,8 +19,10 @@ Functions as an expansion to Magiclysm, adding more magic and more "stuff" in ge
 ### Will this suite have more mods in the future?
 Probably, yeah! Though it depends a lot on how much I end up making out of this. Currently "Core" and "Magic" are the only ones planned, but I've had ideas for other possibilities.
 
-### Is the suite compatible with other mods?
-Compatibility with other mods is best effort and not guaranteed, if there is an incompatibility and it is a simple fix, I will fix it, otherwise, that mod may simply be incompatible.
+### Is the suite compatible with other major mods?
+Compatibility with other big mods is best effort and not guaranteed, if there is an incompatibility and it is a simple fix, I will fix it, otherwise, that mod may simply be incompatible.
+
+Aftershock is probably the most likely mod to be rendered incompatible with Core, although with (https://github.com/CleverRaven/Cataclysm-DDA/pull/76632)[this PR] the theoretical incompatibility should be easily fixable. 
 
 ### Can we add X/Y/Z to Core if it was removed from DDA?
 Probably, yeah. A lot of the current plans for Core are just things that were removed from DDA.
