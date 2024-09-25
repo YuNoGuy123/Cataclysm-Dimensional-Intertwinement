@@ -10,7 +10,8 @@ The most basic form of the mod, currently not required by the others but *may* e
 Aims to restore the science fiction elements that were present in previous versions of Dark Days Ahead, and expand upon them.
 
 ## Dimensional Intertwinement - Magic
-[Currently planned, but hasn't started development.]
+*Currently planned, but hasn't started development.*
+
 Requires Magiclysm.
 
 Functions as an expansion to Magiclysm, adding more magic and more "stuff" in general.
