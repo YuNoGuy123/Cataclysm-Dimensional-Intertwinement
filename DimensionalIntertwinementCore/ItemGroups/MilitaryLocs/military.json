@@ -1,0 +1,13 @@
+[
+	{
+	"type": "item_group",
+	"id": "military",
+	"copy-from": "military",
+	"extend": { 
+		"items": [
+			{ "item": "dicore_rm614lmg", "prob": 1 },
+			{ "item": "dicore_rm88br", "prob": 1 },
+	]
+	}
+	}
+]

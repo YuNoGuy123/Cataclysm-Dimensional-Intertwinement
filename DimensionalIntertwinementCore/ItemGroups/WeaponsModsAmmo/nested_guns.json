@@ -1,0 +1,26 @@
+[
+  {
+    "id": "dicore_nested_rm614lmg",
+    "type": "item_group",
+    "subtype": "collection",
+    "ammo": 100,
+    "entries": [
+      { "item": "dicore_rm614lmg", "charges": [ 0, 100 ] },
+      { "item": "dicore_8x40_150mag" },
+      { "item": "dicore_8x40_150mag", "prob": 50 },
+      { "group": "on_hand_8x40" }
+    ]
+  },
+  {
+    "id": "dicore_nested_rm88br",
+    "type": "item_group",
+    "subtype": "collection",
+    "ammo": 100,
+    "entries": [
+      { "item": "dicore_rm88br", "charges": [ 0, 50 ] },
+      { "item": "8x40_50_mag" },
+      { "item": "8x40_50_mag", "prob": 50 },
+      { "group": "on_hand_8x40" }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+	{
+	"type": "item_group",
+	"id": "guns_rifle_milspec",
+	"copy-from": "guns_rifle_milspec",
+	"extend": { 
+		"items": [
+			{ "group": "dicore_nested_rm614lmg", "prob": 1 },
+			{ "group": "dicore_nested_rm88br", "prob": 1 }
+	
+	]
+	}
+	}
+]
