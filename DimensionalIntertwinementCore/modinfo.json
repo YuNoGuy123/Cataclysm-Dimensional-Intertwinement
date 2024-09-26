@@ -5,7 +5,7 @@
     "name": "Dimensional Intertwinement - Core",
     "authors": [ "<color_cyan>YuNoGuy123</color>"],
     "description": "\n<color_red>Reimagines portions of DDA's lore to include more science fiction elements.</color> \n<color_light_green>This is the core mod for DI, the rest of the mods may be found on GitHub.</color>",
-    "version": "<color_light_green>V0.0.0</color>",
+    "version": "<color_light_green>V1.0.0</color>",
     "category": "content",
     "dependencies": [ "dda" ]
   }

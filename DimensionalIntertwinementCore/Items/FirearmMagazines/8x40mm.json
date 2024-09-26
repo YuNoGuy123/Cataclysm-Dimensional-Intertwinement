@@ -1,0 +1,37 @@
+[
+  {
+    "id": "dicore_8x40_150mag",
+    "looks_like": "stanag30",
+    "type": "MAGAZINE",
+    "name": { "str": "8x40mm 150-round drum magazine" },
+    "description": "A 150-round drum magazine for use with Rivtech 8x40mm caseless firearms.  Designated as RMGD150.",
+    "weight": "300 g",
+    "volume": "1.5 L",
+    "price": "700 USD",
+    "price_postapoc": "10 USD",
+    "material": [ "superalloy", "plastic" ],
+    "symbol": "#",
+    "color": "dark_gray",
+    "ammo_type": [ "8x40mm" ],
+    "reload_time": 60,
+    "mag_jam_mult": 2,
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "8x40mm": 150 } } ]
+  },
+    {
+    "id": "dicore_8x40_300mag",
+    "looks_like": "stanag30",
+    "type": "MAGAZINE",
+    "name": { "str": "8x40mm 300-round drum magazine" },
+    "description": "A 300-round drum magazine for use with Rivtech 8x40mm caseless firearms.  Designated as RMGD300.",
+    "weight": "1200 g",
+    "volume": "3 L",
+    "price": "1 kUSD",
+    "price_postapoc": "10 USD",
+    "material": [ "superalloy", "plastic" ],
+    "symbol": "#",
+    "color": "dark_gray",
+    "ammo_type": [ "8x40mm" ],
+    "mag_jam_mult": 2,
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "8x40mm": 300 } } ]
+  }
+]

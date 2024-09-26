@@ -1,0 +1,33 @@
+[
+	"id": "SUS_rivtech_8x40",
+    "type": "item_group",
+    "copy-from": "SUS_rivtech_8x40",
+    "subtype": "collection",
+	"//": "I don't think it's possible to extend specific entries of a collection, only just adding onto the collection, this will have to do for now."
+    "entries": [
+      {
+        "distribution": [ { "item": "8mm_caseless", "prob": 40, "count": [ 1, 3 ] }, { "item": "8mm_jhp", "prob": 30, "count": [ 1, 3 ] } ]
+      },
+      {
+        "distribution": [
+          { "item": "8x40_100_mag", "prob": 10 },
+          { "item": "8x40_10_mag", "prob": 80 },
+          { "item": "8x40_25_mag", "prob": 60 },
+          { "item": "8x40_50_mag", "prob": 40 },
+		  { "item": "dicore_8x40_300mag", "prob": 8 },
+		  { "item": "dicore_8x40_150mag", "prob": 8 }
+        ]
+      },
+      {
+        "distribution": [
+          { "item": "rm103a_pistol", "prob": 80 },
+          { "item": "rm11b_sniper_rifle", "prob": 10 },
+          { "item": "rm51_assault_rifle", "prob": 30 },
+		  { "item": "dicore_rm614lmg", "prob": 15 },
+          { "item": "dicore_rm88br", "prob": 20 },
+          { "item": "rm2000_smg", "prob": 60 }
+        ]
+      }
+    ]
+  },
+]
