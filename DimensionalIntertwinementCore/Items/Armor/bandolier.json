@@ -1,1 +1,23 @@
+[
+  {
+    "type": "ARMOR",
+    "id": "bandolier_shotgun",
+    "copy-from": "bandolier_shotgun",
+    "extend": {
+      "pocket-data": [
+        { "ammo_restriction": { "dicore_20x66mm": 25 } }
+      ]
+    }
+  },
+  {
+    "type": "ARMOR",
+    "id": "torso_bandolier_shotgun",
+    "copy-from": "torso_bandolier_shotgun",
+    "extend": {
+      "pocket-data": [
+          { "ammo_restriction": { "dicore_20x66mm": 50 } }
+      ]
+    }
+  }
 
+]
