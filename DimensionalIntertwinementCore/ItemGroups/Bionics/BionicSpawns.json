@@ -33,6 +33,6 @@
     "subtype": "distribution",
     "copy-from": "science",
     "extend": { "entries": [ { "item": "bio_teleport", "prob": 1 } ] }
-  },
+  }
 
 ]
