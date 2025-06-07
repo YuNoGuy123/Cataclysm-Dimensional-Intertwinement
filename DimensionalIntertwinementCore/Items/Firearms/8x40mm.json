@@ -1,7 +1,8 @@
 [
   {
     "id": "dicore_rm614lmg",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "reload_noise_volume": 10,
     "name": { "str": "RM614 LMG" },
     "description": "Utilizing a powerful and unusual caliber, the Rivtech RM614 light machine gun was designed for durability and extreme volume of sustained fire under the worst possible circumstances.  Accepts RMXB300 box and RMGD150 drum magazines.",
@@ -38,7 +39,8 @@
   },
   {
     "id": "dicore_rm88br",
-    "type": "GUN",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
     "reload_noise_volume": 10,
     "name": { "str": "RM88 battle rifle" },
     "description": "Originally produced for military use, the Rivtech RM88 battle rifle was designed for durability and extreme firepower under less than ideal circumstances, with a heavy ported barrel for maximum controllability.  Accepts box and RMGD150 drum magazines.",
