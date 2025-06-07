@@ -11,8 +11,10 @@ The most basic form of the mod, currently not required by the others but *may* e
 
 Aims to restore the science fiction elements that were present in previous versions of Dark Days Ahead, and expand upon them.
 
+## Questions? Look below first!
+
 ### Will this suite have more mods in the future?
-Probably, yeah! Though it depends a lot on how much I end up making out of this. Currently "Core" and "Magic" are the only ones planned, but I've had ideas for other possibilities.
+Probably, yeah! Though it depends a lot on how much I end up making out of this. Currently, "Core" is the only mod in development, but I've also had ideas for a Magiclysm expansion as well.
 
 ### Is the suite compatible with other major mods?
 Compatibility with other big mods is best effort and not guaranteed, if there is an incompatibility and it is a simple fix, I will fix it, otherwise, that mod may simply be incompatible.
@@ -24,13 +26,13 @@ Probably, yeah. A lot of the current plans for Core are just things that were re
 
 No guarantees, though.
 
-### Could this mod be in-repo someday?
-I doubt it. I don't have a ton of time to dedicate to maintaining or updating this mod. I mostly update it whenever I'm playing DDA and get an idea for something.
-
 ### Do these mods contain vanilla-friendly balancing?
 Somewhat, early game is balanced with vanilla in mind, but late game is a bit more complicated due to new content. 
 
 However, I'll try to keep the relative balancing as close to identical as possible - Where I add more power to the player, I'll try to add more powerful adversaries as well to ensure that this doesn't become a power-fantasy mod.
+
+### Can people contribute?
+Absolutely! You're also more than welcome to take any part of the mod and make it your own.
 
 ### Bright Nights? (Or some other fork?)
 For now, no, since I still play mainly DDA and don't want to have to manage multiple versions of the same mods.
