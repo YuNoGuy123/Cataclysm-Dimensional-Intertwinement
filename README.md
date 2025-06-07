@@ -4,19 +4,12 @@ Dimensional Intertwinement is a series of mods designed to work together, each o
 
 Previously known as "YuNoGuy123's Cataclysm" before I changed the name to something a little bit less ridiculous.
 
+It's worth noting that I work on this whenever I have time and ideas that I feel are worth implementing. Thus there may be long periods of inactivity.
+
 ## Dimensional Intertwinement - Core 
 The most basic form of the mod, currently not required by the others but *may* end up being required in the future.
 
 Aims to restore the science fiction elements that were present in previous versions of Dark Days Ahead, and expand upon them.
-
-## Dimensional Intertwinement - Magic
-*Currently planned, but hasn't started development.*
-
-Requires Magiclysm.
-
-Functions as an expansion to Magiclysm, adding more magic and more "stuff" in general.
-
-# Some questions that I figure may be asked are pre-emptively answered below
 
 ### Will this suite have more mods in the future?
 Probably, yeah! Though it depends a lot on how much I end up making out of this. Currently "Core" and "Magic" are the only ones planned, but I've had ideas for other possibilities.
@@ -31,22 +24,16 @@ Probably, yeah. A lot of the current plans for Core are just things that were re
 
 No guarantees, though.
 
-### Will any of this be in-repo someday?
-I doubt it, the problem being that these mods are designed to be mixed and matched, if you like one part of it, then you play with that part, if you like another part, then you can play with that part as well. 
+### Could this mod be in-repo someday?
+I doubt it. I don't have a ton of time to dedicate to maintaining or updating this mod. I mostly update it whenever I'm playing DDA and get an idea for something.
 
-If this were to go into repo, it'd have to be consolidated down into one mod with a singular intention, and I don't really want to do that. 
+### Do these mods contain vanilla-friendly balancing?
+Somewhat, early game is balanced with vanilla in mind, but late game is a bit more complicated due to new content. 
 
-The only way this would ever happen would be if I *needed* C++ code in order to do something I reaaally wanted to do with the mod, currently I can't imagine anything like that.
+However, I'll try to keep the relative balancing as close to identical as possible - Where I add more power to the player, I'll try to add more powerful adversaries as well to ensure that this doesn't become a power-fantasy mod.
 
-### Are these mods lore friendly?
-"Magic" is more or less lore friendly to (and designed to be played with) Magiclysm yeah.
-
-"Core"? Oh heavens, no. Though I will try to break the monotony of the lore in a fun and interesting way where possible.
-
-### Bright Nights?
-I doubt it, Bright Nights just *isn't* there yet. It's close, but not quite.
-
-If Bright Nights ends up adding an improved version of the proficiencies system (I like proficiencies but they could be way better), separate tileset for the overmap, more content, pockets, etc then I will likely end up making this a Bright Nights mod suite.
+### Bright Nights? (Or some other fork?)
+For now, no, since I still play mainly DDA and don't want to have to manage multiple versions of the same mods.
 
 # Footnotes
 This README is currently undergoing a rewrite so I've only put the bare minimum information here.
