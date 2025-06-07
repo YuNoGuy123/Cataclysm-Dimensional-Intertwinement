@@ -31,7 +31,7 @@
     "type": "item_group",
     "id": "teleport",
     "subtype": "distribution",
-    "copy-from": "science",
+    "copy-from": "teleport",
     "extend": { "entries": [ { "item": "bio_teleport", "prob": 1 } ] }
   }
 
