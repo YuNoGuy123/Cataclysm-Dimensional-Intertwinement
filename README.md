@@ -16,10 +16,8 @@ Aims to restore the science fiction elements that were present in previous versi
 ### Will this suite have more mods in the future?
 Probably, yeah! Though it depends a lot on how much I end up making out of this. Currently, "Core" is the only mod in development, but I've also had ideas for a Magiclysm expansion as well.
 
-### Is the suite compatible with other major mods?
-Compatibility with other big mods is best effort and not guaranteed, if there is an incompatibility and it is a simple fix, I will fix it, otherwise, that mod may simply be incompatible.
-
-Aftershock is probably the most likely mod to be rendered incompatible with Core, although with [this PR](https://github.com/CleverRaven/Cataclysm-DDA/pull/76632) the theoretical incompatibility should be easily fixable. 
+### Is this mod compatible with other major mods?
+Currently, I'm not aware of any in-repo mods which has conflicts. If any compatibility issues arise, I'll try to patch them up.
 
 ### Can we add X/Y/Z to Core if it was removed from DDA?
 Probably, yeah. A lot of the current plans for Core are just things that were removed from DDA.
